@@ -6,7 +6,7 @@ In this paper, we examine patterns in age and sex-standardised cumulative excess
 # System requirements
 The analysis were implemented on Jupyter Notebook version 6.5.4 using Python version 3.11.5
 
-# FIle description
+# File description
 This Git repository contains: 
 - *Excess_mortality-final_analysis.ipynb* which contains code for replicating the excess mortality curves.
 - *Figures_NPI_paper.ipynb* which contains code for replicating the excess mortality factor analysis.
@@ -15,7 +15,7 @@ More specifically, the *Data* file contains :
 - *monthly_deaths_pop_ireland.xlsx* and *stmf.xlsx*: the two data files compiling mortality data
 - *raw_data_scatter_plots_cc_post_standardisation.xlsx* the data file containing all data used in the excess mortality factor analysis.
 
-# Instruction for use
+# Instructions for use
 After downloading the repository, user must change before running the code: 
 - the "path_user" variable in *Excess_mortality - final analysis.ipynb* cell 2, to the "Data" file path
 - the "data_path" variable in *Figures_NPI_paper.ipynb* cell 2, to the *raw_data_scatter_plots_cc_post_standardisation.xlsx* in the "Data" file path
